@@ -1,16 +1,39 @@
-## Hi there 👋
+-----------------------------------------------
 
-<!--
-**Martinherculez/Martinherculez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hola, soy Aaron Martin
 
-Here are some ideas to get you started:
+Systems Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend Developer
+
+🚀 Tecnologías
+
+JavaScript
+
+TypeScript
+
+Node.js
+
+PostgreSQL
+
+Docker
+
+Git
+
+Linux
+
+📌 Proyectos Destacados
+
+Delivery System
+
+Sales System
+
+Portfolio
+
+📈 GitHub Stats
+
+📫 Contacto 
+Martin2002harold@gmail.com
++51 956335617
+
+------------------------------------------------
